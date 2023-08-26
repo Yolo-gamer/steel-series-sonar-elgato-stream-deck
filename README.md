@@ -1,4 +1,4 @@
-# steel-series-sonar-elgato-stream-deck
+# sonar to elgato
 beta steel series sonar to elgato plugin
 
 This is an early development of an elgato plugin that allows you to control steel series sonar with the stream deck.
